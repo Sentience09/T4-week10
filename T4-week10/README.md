@@ -18,7 +18,7 @@ Aplikasi CRUD (Create, Read, Update, Delete) menggunakan PHP, MySQL, dan Bootstr
 ## Screenshot
 
 ### Daftar Data
-![Index](screenshot/index.png)
+![Index](screenshot/index0.png)
 
 ### Tambah Data
 ![Create](screenshot/create.png)
